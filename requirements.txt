@@ -1,0 +1,5 @@
+# Cole Wiltse CSC110 Final Project Requirements
+
+plotly==5.2.2
+python-ta==2.0.0
+
