@@ -4,7 +4,7 @@
 
 ## Description
 
-This project analyzes public transit and unemployment data in Canada before and after the covid-19 pandemic in order to determine if there is a trend between the two datasets. The program accepts a variety of filters from user input such as time range, age, sex, region, and more.
+This project analyzes public transit and unemployment data in Canada before and after the covid-19 pandemic in order to determine if there is a trend between the two datasets. The program accepts a variety of filters from user input such as time range, age, sex, region, and more. Note that the date range is only from 2017-01 to 2021-08.
 
 ## Install and Running Insructions
 
