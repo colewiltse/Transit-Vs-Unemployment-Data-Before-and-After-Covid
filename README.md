@@ -15,3 +15,4 @@ Note that the unemployment dataset is too large for github. Instead, please down
 Also make sure you install all the external libraries from the requirements.txt file. 
 
 To run the program, open and run main.py and follow the instructions in the console. Simply type your input in the console when prompted and press enter to submit your inputs.
+![Graph Screenshot](https://github.com/colewiltse/Transit-Vs-Unemployment-Data-Before-and-After-Covid/assets/113066633/9940bf2e-1ed4-4fe7-a71e-864890be4418)
